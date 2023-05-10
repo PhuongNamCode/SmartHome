@@ -1,0 +1,7 @@
+LightControlPresenter.hpp:28:13:LightControlPresenter::~LightControlPresenter()	1
+LightControlPresenter.cpp:10:6:virtual void LightControlPresenter::activate()	1
+LightControlPresenter.hpp:28:13:virtual LightControlPresenter::~LightControlPresenter()	1
+LightControlPresenter.cpp:24:6:void LightControlPresenter::swButtonSwLedToggle()	1
+LightControlPresenter.hpp:28:13:virtual void* LightControlPresenter::_ZThn4_N21LightControlPresenterD1Ev()	1
+LightControlPresenter.cpp:4:1:LightControlPresenter::LightControlPresenter(LightControlView&)	1
+LightControlPresenter.cpp:20:6:void LightControlPresenter::swButtonHwLedToggle()	1

@@ -1,0 +1,9 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/TouchGFX/gui/src/lightcontrol_screen/LightControlView.cpp:13:6:virtual void LightControlView::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/lightcontrol_screen/LightControlView.hpp:11:13:LightControlView::~LightControlView()	8	static
+../../TouchGFX/gui/include/gui/lightcontrol_screen/LightControlView.hpp:11:13:virtual LightControlView::~LightControlView()	8	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/TouchGFX/gui/src/lightcontrol_screen/LightControlView.cpp:3:1:LightControlView::LightControlView()	8	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/TouchGFX/gui/src/lightcontrol_screen/LightControlView.cpp:8:6:virtual void LightControlView::setupScreen()	0	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/TouchGFX/gui/src/lightcontrol_screen/LightControlView.cpp:19:6:void LightControlView::toggleSwLed()	8	static

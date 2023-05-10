@@ -1,0 +1,7 @@
+../../TouchGFX/gui/include/gui/lightcontrol_screen/LightControlPresenter.hpp:28:13:LightControlPresenter::~LightControlPresenter()	0	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/TouchGFX/gui/src/lightcontrol_screen/LightControlPresenter.cpp:10:6:virtual void LightControlPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/lightcontrol_screen/LightControlPresenter.hpp:28:13:virtual LightControlPresenter::~LightControlPresenter()	8	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/TouchGFX/gui/src/lightcontrol_screen/LightControlPresenter.cpp:24:6:void LightControlPresenter::swButtonSwLedToggle()	0	static
+../../TouchGFX/gui/include/gui/lightcontrol_screen/LightControlPresenter.hpp:28:13:virtual void* LightControlPresenter::_ZThn4_N21LightControlPresenterD1Ev()	0	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/TouchGFX/gui/src/lightcontrol_screen/LightControlPresenter.cpp:4:1:LightControlPresenter::LightControlPresenter(LightControlView&)	8	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/TouchGFX/gui/src/lightcontrol_screen/LightControlPresenter.cpp:20:6:void LightControlPresenter::swButtonHwLedToggle()	0	static

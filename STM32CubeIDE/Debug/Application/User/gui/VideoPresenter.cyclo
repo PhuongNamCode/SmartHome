@@ -1,0 +1,6 @@
+ModelListener.hpp:18:18:virtual void ModelListener::userButtonPressed()	1
+VideoPresenter.hpp:28:13:VideoPresenter::~VideoPresenter()	1
+VideoPresenter.cpp:10:6:virtual void VideoPresenter::activate()	1
+VideoPresenter.hpp:28:13:virtual VideoPresenter::~VideoPresenter()	1
+VideoPresenter.hpp:28:13:virtual void* VideoPresenter::_ZThn4_N14VideoPresenterD1Ev()	1
+VideoPresenter.cpp:4:1:VideoPresenter::VideoPresenter(VideoView&)	1

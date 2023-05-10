@@ -1,0 +1,8 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+TemperatureView.cpp:13:6:virtual void TemperatureView::tearDownScreen()	1
+TemperatureView.hpp:11:13:TemperatureView::~TemperatureView()	1
+TemperatureView.hpp:11:13:virtual TemperatureView::~TemperatureView()	1
+TemperatureView.cpp:3:1:TemperatureView::TemperatureView()	1
+TemperatureView.cpp:8:6:virtual void TemperatureView::setupScreen()	1

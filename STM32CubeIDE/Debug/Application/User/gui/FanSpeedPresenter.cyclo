@@ -1,0 +1,6 @@
+ModelListener.hpp:18:18:virtual void ModelListener::userButtonPressed()	1
+FanSpeedPresenter.hpp:28:13:FanSpeedPresenter::~FanSpeedPresenter()	1
+FanSpeedPresenter.cpp:10:6:virtual void FanSpeedPresenter::activate()	1
+FanSpeedPresenter.hpp:28:13:virtual FanSpeedPresenter::~FanSpeedPresenter()	1
+FanSpeedPresenter.hpp:28:13:virtual void* FanSpeedPresenter::_ZThn4_N17FanSpeedPresenterD1Ev()	1
+FanSpeedPresenter.cpp:4:1:FanSpeedPresenter::FanSpeedPresenter(FanSpeedView&)	1

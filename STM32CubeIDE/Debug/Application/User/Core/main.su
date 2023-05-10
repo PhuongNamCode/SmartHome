@@ -1,0 +1,10 @@
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:842:6:StartDefaultTask	8	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:241:6:SystemClock_Config	88	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:135:5:main	144	static,ignoring_inline_asm
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:801:6:print_char	32	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:794:6:temp_conv	8	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:784:6:HAL_ADC_ConvCpltCallback	8	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:819:6:TOGGLE_LED3	0	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:825:6:HAL_GPIO_EXTI_Callback	0	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:898:6:HAL_TIM_PeriodElapsedCallback	0	static
+F:/Project_Smarthome/TOUCHGFX_PROJECT_STM32F746/SmartHome_V2/Core/Src/main.c:915:6:Error_Handler	0	static

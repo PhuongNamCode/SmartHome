@@ -1,0 +1,9 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+FanSpeedViewBase.hpp:26:18:virtual void FanSpeedViewBase::sliderMoved(int)	1
+FanSpeedView.cpp:13:6:virtual void FanSpeedView::tearDownScreen()	1
+FanSpeedView.hpp:11:13:FanSpeedView::~FanSpeedView()	1
+FanSpeedView.hpp:11:13:virtual FanSpeedView::~FanSpeedView()	1
+FanSpeedView.cpp:3:1:FanSpeedView::FanSpeedView()	1
+FanSpeedView.cpp:8:6:virtual void FanSpeedView::setupScreen()	1

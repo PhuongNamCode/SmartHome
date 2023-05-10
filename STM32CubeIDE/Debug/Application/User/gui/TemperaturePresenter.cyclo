@@ -1,0 +1,6 @@
+ModelListener.hpp:18:18:virtual void ModelListener::userButtonPressed()	1
+TemperaturePresenter.hpp:28:13:TemperaturePresenter::~TemperaturePresenter()	1
+TemperaturePresenter.cpp:10:6:virtual void TemperaturePresenter::activate()	1
+TemperaturePresenter.hpp:28:13:virtual TemperaturePresenter::~TemperaturePresenter()	1
+TemperaturePresenter.hpp:28:13:virtual void* TemperaturePresenter::_ZThn4_N20TemperaturePresenterD1Ev()	1
+TemperaturePresenter.cpp:4:1:TemperaturePresenter::TemperaturePresenter(TemperatureView&)	1
